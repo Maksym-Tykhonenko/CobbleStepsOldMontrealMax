@@ -1,6 +1,6 @@
 workflows:
   sample-workflow:
-    name: CobbleSteps: Old Montreal
+    name: CobbleSteps Old Montreal
     max_build_duration: 120
     instance_type: mac_mini_m2
     integrations:
